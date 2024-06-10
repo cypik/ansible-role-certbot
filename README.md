@@ -65,7 +65,7 @@ Followiing things includes in this role:
 ```yaml
   web_server: nginx
   certbot_email: example@gmail.com
-  domain_name: testing.celebgaze.ai
+  domain_name: testing.example.ai
 ```
 
 
@@ -82,3 +82,4 @@ At [cypik][website], we offer expert guidance, implementation support and servic
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/cypik/ansible-role-certbot/blob/master/LICENSE) file for details.
+

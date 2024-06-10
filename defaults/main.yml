@@ -3,5 +3,5 @@
 # Parameters used when creating new Certbot certs.
 
 web_server: nginx
-certbot_email: thebaldevyadav@gmail.com
-domain_name: testing.celebgaze.ai
+certbot_email: example@gmail.com
+domain_name: testing.example.ai
